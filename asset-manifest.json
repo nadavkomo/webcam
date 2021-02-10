@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webcam/static/css/main.c4782c7d.chunk.css",
+    "main.css": "/webcam/static/css/main.ac9385d4.chunk.css",
     "main.js": "/webcam/static/js/main.97033dac.chunk.js",
     "main.js.map": "/webcam/static/js/main.97033dac.chunk.js.map",
     "runtime-main.js": "/webcam/static/js/runtime-main.9906f129.js",
@@ -12,7 +12,7 @@
     "static/js/3.3fd70c08.chunk.js.map": "/webcam/static/js/3.3fd70c08.chunk.js.map",
     "index.html": "/webcam/index.html",
     "static/css/2.db12625d.chunk.css.map": "/webcam/static/css/2.db12625d.chunk.css.map",
-    "static/css/main.c4782c7d.chunk.css.map": "/webcam/static/css/main.c4782c7d.chunk.css.map",
+    "static/css/main.ac9385d4.chunk.css.map": "/webcam/static/css/main.ac9385d4.chunk.css.map",
     "static/js/2.90587c78.chunk.js.LICENSE.txt": "/webcam/static/js/2.90587c78.chunk.js.LICENSE.txt",
     "static/media/RobotExpressive.06f9d5cf.glb": "/webcam/static/media/RobotExpressive.06f9d5cf.glb",
     "static/media/default.d62198fc.png": "/webcam/static/media/default.d62198fc.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.9906f129.js",
     "static/css/2.db12625d.chunk.css",
     "static/js/2.90587c78.chunk.js",
-    "static/css/main.c4782c7d.chunk.css",
+    "static/css/main.ac9385d4.chunk.css",
     "static/js/main.97033dac.chunk.js"
   ]
 }
