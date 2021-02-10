@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webcam/static/css/main.78554da9.chunk.css",
+    "main.js": "/webcam/static/js/main.3bddaeac.chunk.js",
+    "main.js.map": "/webcam/static/js/main.3bddaeac.chunk.js.map",
+    "runtime-main.js": "/webcam/static/js/runtime-main.9906f129.js",
+    "runtime-main.js.map": "/webcam/static/js/runtime-main.9906f129.js.map",
+    "static/css/2.db12625d.chunk.css": "/webcam/static/css/2.db12625d.chunk.css",
+    "static/js/2.81ad142e.chunk.js": "/webcam/static/js/2.81ad142e.chunk.js",
+    "static/js/2.81ad142e.chunk.js.map": "/webcam/static/js/2.81ad142e.chunk.js.map",
+    "static/js/3.3fd70c08.chunk.js": "/webcam/static/js/3.3fd70c08.chunk.js",
+    "static/js/3.3fd70c08.chunk.js.map": "/webcam/static/js/3.3fd70c08.chunk.js.map",
+    "index.html": "/webcam/index.html",
+    "static/css/2.db12625d.chunk.css.map": "/webcam/static/css/2.db12625d.chunk.css.map",
+    "static/css/main.78554da9.chunk.css.map": "/webcam/static/css/main.78554da9.chunk.css.map",
+    "static/js/2.81ad142e.chunk.js.LICENSE.txt": "/webcam/static/js/2.81ad142e.chunk.js.LICENSE.txt",
+    "static/media/RobotExpressive.06f9d5cf.glb": "/webcam/static/media/RobotExpressive.06f9d5cf.glb",
+    "static/media/lion.ede3f093.png": "/webcam/static/media/lion.ede3f093.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9906f129.js",
+    "static/css/2.db12625d.chunk.css",
+    "static/js/2.81ad142e.chunk.js",
+    "static/css/main.78554da9.chunk.css",
+    "static/js/main.3bddaeac.chunk.js"
+  ]
+}
