@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webcam/static/css/main.da6e61ba.chunk.css",
-    "main.js": "/webcam/static/js/main.f2fe89c2.chunk.js",
-    "main.js.map": "/webcam/static/js/main.f2fe89c2.chunk.js.map",
+    "main.js": "/webcam/static/js/main.dcd3cae2.chunk.js",
+    "main.js.map": "/webcam/static/js/main.dcd3cae2.chunk.js.map",
     "runtime-main.js": "/webcam/static/js/runtime-main.9906f129.js",
     "runtime-main.js.map": "/webcam/static/js/runtime-main.9906f129.js.map",
     "static/css/2.db12625d.chunk.css": "/webcam/static/css/2.db12625d.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.db12625d.chunk.css",
     "static/js/2.90587c78.chunk.js",
     "static/css/main.da6e61ba.chunk.css",
-    "static/js/main.f2fe89c2.chunk.js"
+    "static/js/main.dcd3cae2.chunk.js"
   ]
 }
